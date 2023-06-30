@@ -1,0 +1,115 @@
+body{
+    margin: 0%;
+    padding-top: 800px;
+    text-align: center;
+    background: linear-gradient(#00f7ff 0%,#00ffae 100%);
+}
+.profile{
+    border-radius: 50%;
+}
+#Welcome{
+    position: absolute;
+    bottom: 0%;
+    display: table;
+    height: 100%;
+    width: 100%;
+    
+}
+h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+
+
+}
+#name{
+    font-size: 50px;
+    font-family: 'Staatliches', cursive;
+
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#bio{
+    font-family: cursive;
+    padding: 50px;
+    font-family: 'Poppins', sans-serif;
+
+    padding-right: 9px;
+    padding-left: 9px;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+.parallax-inner{
+    display: table-cell;
+    vertical-align: middle;
+
+}
+.menu {
+list-style: none;
+position: fixed;
+margin-top: 0px;
+top: 0px;
+
+z-index: 10;
+cursor: pointer;
+color: white;
+width: 100%;
+}
+.link {
+ display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(53, 52, 52);
+
+}
+
+.menu a {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: rgb(88, 87, 87);
+
+}
+
+ .menu a:hover {
+font-size: 20px;
+background-color: #5454545f;
+color: white;
+
+
+}
+#Contact {
+    background-color: azure;
+}
+iframe{
+    width: 80%;
+
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.Contact_1 h3 {
+display: inline;
+}
+#Contact iframe{
+    width: 100%;
+}
+
+
+
